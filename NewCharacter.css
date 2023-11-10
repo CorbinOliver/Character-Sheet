@@ -1,9 +1,9 @@
-button{
+a{
   width: 200px;
   height: 200px;
 }
 
-button > svg{
+a > svg{
   width: 100%;
   height: 100%;
 }
