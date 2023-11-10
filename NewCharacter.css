@@ -1,14 +1,14 @@
 div{
-  background-color
+  background-color: yellow;
 }
 a{
   width: 200px;
   height: 200px;
-  background-color: blue;
+  background-color: green;
 }
 
 a > svg{
   width: 100%;
   height: 100%;
-  background-color: #365ca7;;
+  background-color: #365ca7;
 }
